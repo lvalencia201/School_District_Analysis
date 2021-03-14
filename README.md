@@ -27,3 +27,19 @@ There were several changes be replacing the school district analysis of the read
 2. There were columns created with total schools, total students, total budget, Average reading score, passing math, passing reading and overall passing.
 3. We had to import as NumPy and pd.
 4. The district summary, using the count method to provide all columns.
+# Analysis
+The prupose of this school anyalsis is to use the loc method and show different school type and total schools. While also providing a new Data Frame.
+# List
+* Math and reading scores by grade
+* 10th-12th grades passing reading
+* Percentage of 10th -12th grades
+* Percentage of passing math
+* Percentage of passing reading
+* Percentage of overall passing
+* Two dataf
+# There were several changes by replacing the school district anyalsis.
+The first is making a dsitrict data summary dataframe
+The second is school summary data frame to provide school data.
+The third is passing math and reading percentage.
+The fourth is overall passing by students.
+
